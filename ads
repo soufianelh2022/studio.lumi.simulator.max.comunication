@@ -2,7 +2,7 @@
   "schema_version": 1,
   "app_id": "studio.lumi.simulator.max.comunication",
   "revision": 2,
-  "ads_enabled": true,
+  "ads_enabled": false,
   "test_mode": true,
   "refresh_seconds": 300,
   "entry_window_seconds": 8,
